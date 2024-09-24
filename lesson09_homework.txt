@@ -1,0 +1,37 @@
+ ╭─alex@smith in ~/ED/Administrator Linux. Basic /09 nginx apache as 🧙 took 32s
+ ╰─λ curl 192.168.122.53 | grep HTML_APACHE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10685  100 10685    0     0  4719k      0 --:--:-- --:--:-- --:--:-- 5217k
+            Apache2 Default Page /var/www/HTML_APACHE
+
+ ╭─alex@smith in ~/ED/Administrator Linux. Basic /09 nginx apache as 🧙 took 21ms
+ ╰─λ curl 192.168.122.53 | grep HTML_APACHE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10685  100 10685    0            
+	Apache2 Default Page /var/www/HTML_APACHE     0  5938k      0 --:--:-- --:--:-- --:--:-- 10.1M
+
+
+ ╭─alex@smith in ~/ED/Administrator Linux. Basic /09 nginx apache as 🧙 took 19ms
+ ╰─λ curl 192.168.122.53 | grep HTML_APACHE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10680  100 10680    0     0  5092k      0 --:--:-- --:--:-- --:--:-- 5214k
+            Apache2 Page 2 /var/www/HTML_APACHE2
+
+ ╭─alex@smith in ~/ED/Administrator Linux. Basic /09 nginx apache as 🧙 took 19ms
+ ╰─λ curl 192.168.122.53 | grep HTML_APACHE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10680  100 10680    0     0  4109k      0 --:--:-- --:--:-- --:--:-- 5214k
+            Apache2 Page 3 /var/www/HTML_APACHE3
+
+ ╭─alex@smith in ~/ED/Administrator Linux. Basic /09 nginx apache as 🧙 took 21ms
+ ╰─λ curl 192.168.122.53 | grep HTML_APACHE
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 10685  100 10685    0     0            
+	Apache2 Default Page /var/www/HTML_APACHE  5280k      0 --:--:-- --:--:-- --:--:-- 10.1M
+
+
